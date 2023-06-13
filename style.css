@@ -1,0 +1,28 @@
+/* colore generale sfondo*/
+body {
+    background-color: grey;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* css dell'header */
+header {
+    background-color: rgb(253, 253, 253);
+    min-height: 50px;   
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0;
+    font-weight: bold;
+}
+
+.logob{
+    vertical-align: middle;
+}
+
+h1, .logob{
+    margin: 10px 0px 10px 5px;
+}
+
+/*Css del nav*/
