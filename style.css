@@ -19,6 +19,8 @@ h1 {
 
 .logob{
     vertical-align: middle;
+    /* margin-left: 15px; */
+    padding-left: 10px;
 }
 
 h1, .logob{
@@ -120,6 +122,7 @@ span{
     margin-bottom: 10px;
 }
 
+/*colori targhette*/
 #tviola {
     background-color: blueviolet;
 }
