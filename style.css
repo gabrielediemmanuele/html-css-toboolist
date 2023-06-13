@@ -105,3 +105,29 @@ h2 {
     font-size: 10px;
 }
 
+.simbolo-rosso {
+    color: rgb(255, 0, 0);
+    border: 1px solid rgb(255, 0, 0);
+    border-radius: 50%;
+    padding: 1px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+span{
+    margin-bottom: 5px;
+}
+
+#tviola {
+    background-color: blueviolet;
+}
+
+#tverde {
+    background-color: rgb(75, 152, 87);
+}
+
+#tarancio {
+    background-color: orange;
+}
