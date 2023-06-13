@@ -60,3 +60,14 @@ nav{
 }
 
 /*CSS DEL MAIN*/
+main{
+    margin:auto;
+}
+.main-container{
+    background-color: rgb(253, 253, 253);
+    margin-top: 2px;
+    max-width: 1000px;
+    min-height: 800px;  
+    padding: 10px 0 10px 30px;
+    border-radius: 0px 0px 15px 15px;
+}
