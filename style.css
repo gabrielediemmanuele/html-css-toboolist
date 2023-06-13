@@ -67,7 +67,7 @@ main{
     background-color: rgb(253, 253, 253);
     margin-top: 2px;
     max-width: 1000px;
-    min-height: 800px;  
+    min-height: 500px;  
     padding: 10px 0 10px 30px;
     border-radius: 0px 0px 15px 15px;
 }
@@ -117,7 +117,7 @@ h2 {
 }
 
 span{
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 #tviola {
@@ -130,4 +130,12 @@ span{
 
 #tarancio {
     background-color: orange;
+}
+
+#tpink {
+    background-color: palevioletred;
+}
+
+#tlightgreen {
+    background-color: rgb(142, 203, 50);
 }
