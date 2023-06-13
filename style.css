@@ -83,3 +83,25 @@ h2 {
     color: rgb(58, 58, 58);
 }
 
+.simbolo {
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    padding: 1px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+
+.targhetta{
+    background-color: rgb(0, 166, 255) ;
+    border-radius: 6px;
+    color: white;
+    padding: 3px 5px;
+    border: none;
+    text-align: center;
+    cursor: pointer;
+    font-size: 10px;
+}
+
